@@ -1,0 +1,115 @@
+{
+  "movies": [
+    {
+      "name": "Rama",
+      "DOR": "2022-08-05",
+      "img": "https://static.toiimg.com/photo/msid-91437182/91437182.jpg",
+      "Directedby": "Hanu Raghavapudi",
+      "budget": "₹30 crore",
+      "actor": {
+        "hero": {
+          "name": "Dulquer Salmaan",
+          "url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1241753,resizemode-1,msid-93182005/magazines/panache/buzz/actor-dulquer-salmaan-turns-a-year-older-heres-a-look-at-his-marvelous-silver-screen-journey.jpg"
+        },
+        "heroine": {
+          "name": "Mrunal Thakur",
+          "url": "https://imgnew.outlookindia.com/public/uploads/articles/2021/10/30/Mrunal_Thakur_21.jpg"
+        },
+        "summa": [
+          "amal"
+        ]
+      },
+      "id": 1
+    },
+    {
+      "name": "Viruman",
+      "DOR": "2022-08-12",
+      "img": "https://th-i.thgim.com/public/incoming/13n167/article65761493.ece/alternates/FREE_1200/370A9916%202.jpg",
+      "Directedby": "M. Muthaiah",
+      "budget": "₹30 crore",
+      "actor": {
+        "hero": {
+          "name": "Karthik Sivakumar",
+          "url": "https://assets.thehansindia.com/h-upload/2020/05/25/971850-karthi-hero.jpg?width=500&height=300"
+        },
+        "heroine": {
+          "name": "Aditi Shankar",
+          "url": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2022/2/7/original/Aditi_Shankar.jpg"
+        }
+      },
+      "id": 2
+    },
+    {
+      "name": "Brahmāstra",
+      "DOR": "2022-09-09",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2022/04/Ayan-Mukerji%E2%80%99s-Brahma%CC%84stra-involves-a-secret-society-a-mysterious-connection-and-an-epic-love-story-between-Ranbir-Kapoor-and-Alia-Bhatt.jpeg",
+      "Directedby": "Ayan Mukerji",
+      "budget": "₹300 crore",
+      "actor": {
+        "hero": {
+          "name": "Ranbir Kapoor",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ranbir_Kapoor_promoting_Bombay_Velvet.jpg"
+        },
+        "heroine": {
+          "name": "Alia Bhatt",
+          "url": "https://thedispatch.blob.core.windows.net/thedispatchimages/2021/04/Alia-Bhatt.jpg"
+        }
+      },
+      "id": 4
+    },
+    {
+      "name": "Vikram",
+      "DOR": "2022-06-03",
+      "img": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2022/6/2/vikram-two-latest.jpg",
+      "Directedby": "Lokesh Kanagaraj ",
+      "budget": "₹150 crore",
+      "actor": {
+        "hero": {
+          "name": "Kamal Haasan",
+          "url": "https://static.toiimg.com/thumb/msid-93051670,imgsize-51484,width-800,height-600,resizemode-75/93051670.jpg"
+        },
+        "heroine": {
+          "name": "",
+          "url": ""
+        }
+      },
+      "id": 6
+    },
+    {
+      "name": "Thiruchitrambalam",
+      "DOR": "2022-08-17T18:30:00.000Z",
+      "img": "https://images.hindustantimes.com/img/2022/08/07/1600x900/Thiruchitrambalam_trailer_dhanush_1659883805691_1659883805817_1659883805817.jpeg",
+      "Directedby": "Mithran R Jawahar",
+      "budget": "₹ 38 crore",
+      "actor": {
+        "hero": {
+          "name": "Dhanush",
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2022-07/220715-dhanush-mn-1125-5952c6.jpg"
+        },
+        "heroine": {
+          "name": "nithiya menen",
+          "url": "https://images.indianexpress.com/2022/07/nithya-menen-1200.jpg"
+        }
+      },
+      "id": 7
+    },
+    {
+      "name": "Don",
+      "DOR": "2022-05-12T18:30:00.000Z",
+      "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/05/13/b2c3df240546d6612af041c521bd271f_original.JPG",
+      "Directedby": "Cibi Chakaravarthi",
+      "budget": "₹125 crore",
+      "actor": {
+        "hero": {
+          "name": " Sivakarthikeyan",
+          "url": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2022/2/3/original/WhatsApp_Image_2022-02-03_at_13.jpeg"
+        },
+        "heroine": {
+          "name": " Priyanka Mohan",
+          "url": "https://i0.wp.com/globalzonetoday.com/wp-content/uploads/2022/04/Actress-Priyanka-Arul-Mohan.jpg?ssl=1"
+        }
+      },
+      "id": 8
+    }
+  ]
+}
